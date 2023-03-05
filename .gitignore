@@ -2,4 +2,8 @@
 1/*
 *.tmp
 *.skb
-
+.ipynb_checkpoints 
+rafter-system-36deg/*.png
+rafter-system-36deg/1*
+rafter-system-33deg/*.png
+rafter-system-33deg/1
